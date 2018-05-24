@@ -31,5 +31,6 @@ learning curve <br/>
 <br/>
 
 ## Note
+After 50 epochs the model was starting to overfit with very minute increase in test accuracy. however an accuracy of ~63-64 percent can be achieved if the model is trained further<br/>
 I am open to pull requests and suggestions for improvement of results
 <br/>
