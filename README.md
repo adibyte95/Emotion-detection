@@ -1,5 +1,5 @@
-# emotion_detection
-##Topic 
+# Emotion detection
+## Topic 
 To detect seven human emotions<br/>
 1.Angry <br/>
 2.Disgust <br/>
