@@ -10,3 +10,13 @@ To detect seven human emotions<br/>
 7.Neutral <br/>
 
 <br/>
+
+## dataset
+
+## Accuracy
+
+## Confusion matrix
+
+## learning curve
+
+## Note
