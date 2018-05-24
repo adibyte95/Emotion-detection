@@ -11,7 +11,7 @@ To detect seven human emotions<br/>
 
 <br/>
 
-## dataset
+## Dataset
 Kaggle dataset was used <a href = "https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data">here</a>
 <br/>
 
@@ -32,4 +32,5 @@ learning curve <br/>
 <br/>
 
 ## Note
+I am open to pull requests and suggestions for improvement of results
 <br/>
