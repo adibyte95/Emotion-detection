@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/adibyte95/Emotion-detection.svg)](http://hits.dwyl.io/adibyte95/Emotion-detection)
 # Emotion detection
 To detect seven human emotions<br/>
 1.Angry <br/>
